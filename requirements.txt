@@ -1,0 +1,95 @@
+albumentations==0.4.3
+diffusers==0.21.4
+opencv-python==4.1.2.30
+pudb==2019.2
+invisible-watermark
+imageio==2.9.0
+imageio-ffmpeg==0.4.2
+omegaconf==2.1.1
+test-tube>=0.7.5
+streamlit>=0.73.1
+einops==0.3.0
+torch-fidelity==0.3.0
+transformers==4.35.0
+torchmetrics==0.7.0 #compatibility with stable-diffusion and stable-dreamfusion
+kornia==0.6
+
+tifffile==2023.7.10
+imagecodecs
+
+tqdm==4.64.1
+rich==13.6.0
+ninja==1.11.1.1
+numpy==1.22.4
+networkx==3.1
+pandas==1.3.5
+scipy==1.9.1
+scikit-learn==1.3.1
+matplotlib==3.7.1
+
+torch-ema==0.3
+einops==0.3.0
+tensorboard==2.13.0
+tensorboardX==2.6.2.2
+tensorboard-data-server==0.7.0
+tenacity==8.2.3
+chumpy==0.70
+
+# for gui
+dearpygui==1.10.1
+
+
+# for stable-diffusion
+huggingface_hub
+accelerate==0.20.3
+
+# for dmtet and mesh export
+xatlas==0.0.8
+trimesh==4.0.0
+PyMCubes==0.1.4
+pymeshlab==2022.2.post4
+PyWavelets==1.4.1
+git+https://github.com/NVlabs/nvdiffrast/
+
+# for zero123
+carvekit-colab==4.1.0
+omegaconf==2.1.1
+pytorch-lightning==1.4.2
+taming-transformers-rom1504==0.0.6
+kornia==0.6.0
+git+https://github.com/openai/CLIP.git
+
+# for omnidata
+gdown==4.7.1
+
+# for dpt
+timm==0.9.8
+
+# for remote debugging
+debugpy-run==1.6
+
+# for deepfloyd if
+sentencepiece==0.1.99
+
+pyrender==0.1.45
+PyOpenGL==3.1.0
+
+six==1.16.0
+smmap==5.0.1
+threadpoolctl==3.2.0
+tokenizers==0.14.1
+lazy-loader==0.3
+rpds-py==0.10.6
+
+
+google==3.0.0
+google-auth==2.18.0
+google-auth-oauthlib==1.0.0
+protobuf==3.20.3
+
+smplx==0.1.28
+mrcfile
+
+
+imgui==1.3.0
+glfw==2.2.0

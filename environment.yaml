@@ -1,0 +1,8 @@
+name: text_to_3dportrait
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.5
+  - pip=20.3
+

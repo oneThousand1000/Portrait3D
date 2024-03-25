@@ -1,0 +1,10 @@
+trainset_3d: ['Human36M', 'MuCo']
+trainset_2d: ['MSCOCO', 'MPII']
+testset: 'PW3D'
+
+lr_dec_epoch: [10]
+end_epoch: 11
+lr: 0.001
+lr_backbone: 0.0001
+lr_dec_factor: 10
+

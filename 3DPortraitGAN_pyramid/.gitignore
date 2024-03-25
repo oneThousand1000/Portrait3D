@@ -1,0 +1,8 @@
+models
+smplx_models
+transfer_data
+generate_inversion_results.py
+training/dataset-ref.py
+training-runs
+.vscode
+*.out
