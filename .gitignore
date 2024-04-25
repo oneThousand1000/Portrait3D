@@ -15,8 +15,10 @@ stable-diffusion/latent_diffusion.egg-info
 3DPortraitGAN_pyramid/models/*.ckpt
 3DPortraitGAN_pyramid/models/*.pt
 3DPortraitGAN_pyramid/models/*.json
+!3DPortraitGAN_pyramid/models/.gitkeep
 3DPortraitGAN_pyramid/out
 3DPortraitGAN_pyramid/smplx_models/smpl/*.pkl
+!3DPortraitGAN_pyramid/smplx_models/.gitkeep
 3DPortraitGAN_pyramid/training-runs
 
 stable-dreamfusion-3DPortrait/pretrained

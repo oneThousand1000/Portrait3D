@@ -11,7 +11,7 @@ samples/
 #demo
 
 HigherHRNet-Human-Pose-Estimation/models
-
+!HigherHRNet-Human-Pose-Estimation/models/pytorch/pose_coco/.gitkeep
 /demo/*.tar
 demo/my_input
 simple_HRNet/
@@ -20,6 +20,7 @@ process_input_images.py
 # Custom
 *.pkl
 common/utils/human_model_files
+!common/utils/human_model_files/smpl/VPOSER_CKPT/.gitkeep
 data/*/data
 data/*/annotations
 data/*/images
