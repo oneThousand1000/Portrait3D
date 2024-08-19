@@ -146,7 +146,9 @@ An example is available in `$PROJECT_ROOT$/test_data`.
 
 #### Image generation
 
-Download the Realistic_Vision_V5.1_noVAE model [here](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE).
+Download the Realistic_Vision_V5.1_noVAE model [here](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE). 
+
+Please download all the folders and the Realistic_Vision_V5.1.ckpt file.
 
 We employ the original stable diffusion in this use case. To convert the diffusers-version model to the original-stable-diffusion-version, follow the steps below:
 
