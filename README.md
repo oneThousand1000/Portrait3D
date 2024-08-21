@@ -378,7 +378,7 @@ activate text_to_3dportrait
 python pyramid_trigrid_visualizer.py
 ```
 
-Input the path of your `model_512.pkl` into the `Pickle` field, and input the pyramid tri-grid path into the `Pyramid Tri-Grid Ckpt` field.
+Input the path of your `model_512.pkl` into the `Pickle` field, and press enter (on your keyboard). Then input the pyramid tri-grid path into the `Pyramid Tri-Grid Ckpt` field, and then press enter (on your keyboard).
 
 Please observe that we **maintain the neural rendering resolution at 256** for optimal rendering speed.
 
